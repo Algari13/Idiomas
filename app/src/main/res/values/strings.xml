@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Idiomas</string>
+
+
+    <string name="idioma"> Castellano</string>
+    <string name="saludo_idioma"> Hola Bienvenido </string>
+    <string name="mensaje_idioma"> Viva españa estas en una app española</string>
+</resources>

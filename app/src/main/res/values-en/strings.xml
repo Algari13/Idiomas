@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name"> Lenguajes</string>
+
+
+    <string name="idioma"> English</string>
+    <string name="saludo_idioma"> Hello welcome</string>
+    <string name="mensaje_idioma"> you are in app</string>
+
+
+</resources>
